@@ -1,0 +1,58 @@
+.app-theme-bg {
+    background-color: #f0f0f0 !important;
+    color: #222831 !important;
+}
+
+.app-theme-bg a,
+.app-theme-bg p {
+    color: #222831 !important;
+}
+
+.app-theme-bg .navbar-toggler {
+    color: #222831;
+}
+
+.app-theme .ui-panelmenu,
+.app-theme .ui-panelmenu-header,
+.app-theme .ui-panelmenu-content,
+.app-theme .ui-menu-list,
+.app-theme .ui-menuitem {
+    background-color: #c4c4c4 !important;
+    color: #222831 !important;
+}
+
+.app-theme .ui-panelmenu-header .ui-state>a {
+    background-color: #c4c4c4 !important;
+    color: #222831 !important;
+}
+
+.app-theme .ui-panelmenu-header .ui-state-active>a {
+    background-color: #c4c4c4 !important;
+    color: #222831 !important;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-header>a:hover {
+    background-color: #999999 !important;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-header.ui-state-active>a {
+    background-color: #999999 !important;
+    color: #222831 !important;
+    border: 1px solid #c4c4c4;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-header.ui-state-active>a:hover {
+    border: 1px solid #999999;
+}
+
+.app-theme .ui-sidebar .ui-sidebar-close {
+    color: #222831 !important;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-content .ui-menuitem .ui-menuitem-link {
+    color: #222831 !important;
+}
+
+.app-theme .ui-sidebar .ui-sidebar-close {
+    color: #222831 !important;
+}

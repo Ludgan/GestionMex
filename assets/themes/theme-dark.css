@@ -1,0 +1,52 @@
+.app-theme {}
+
+.app-theme-bg {
+    background-color: #12132d !important;
+    color: white !important;
+}
+
+.app-theme-bg a,
+.app-theme-bg p {
+    color: white !important;
+}
+
+.app-theme-bg .navbar-toggler {
+    color: white;
+}
+
+.app-theme .ui-panelmenu,
+.app-theme .ui-panelmenu-header,
+.app-theme .ui-panelmenu-content,
+.app-theme .ui-menu-list,
+.app-theme .ui-menuitem,
+.app-theme .ui-panelmenu-header .ui-state>a,
+.app-theme .ui-panelmenu .ui-panelmenu-header>a {
+    background-color: #12132d !important;
+    color: white !important;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-header>a:hover {
+    background-color: #999999 !important;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-header.ui-state-active>a {
+    background-color: #999999 !important;
+    color: #12132d !important;
+    border: 1px solid #c4c4c4;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-header.ui-state-active>a:hover {
+    border: 1px solid #999999;
+}
+
+.app-theme .ui-sidebar .ui-sidebar-close {
+    color: white !important;
+}
+
+.app-theme .ui-panelmenu .ui-panelmenu-content .ui-menuitem .ui-menuitem-link {
+    color: white !important;
+}
+
+.app-theme .ui-sidebar .ui-sidebar-close {
+    color: white !important;
+}
